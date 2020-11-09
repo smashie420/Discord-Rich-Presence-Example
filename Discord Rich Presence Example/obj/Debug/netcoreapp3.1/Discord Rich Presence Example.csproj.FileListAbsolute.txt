@@ -1,0 +1,16 @@
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\bin\Debug\netcoreapp3.1\Discord Rich Presence Example.exe
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\obj\Debug\netcoreapp3.1\Discord Rich Presence Example.csprojAssemblyReference.cache
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\obj\Debug\netcoreapp3.1\Discord Rich Presence Example.AssemblyInfoInputs.cache
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\obj\Debug\netcoreapp3.1\Discord Rich Presence Example.AssemblyInfo.cs
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\bin\Debug\netcoreapp3.1\Discord Rich Presence Example.deps.json
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\bin\Debug\netcoreapp3.1\Discord Rich Presence Example.runtimeconfig.json
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\bin\Debug\netcoreapp3.1\Discord Rich Presence Example.runtimeconfig.dev.json
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\bin\Debug\netcoreapp3.1\Discord Rich Presence Example.dll
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\bin\Debug\netcoreapp3.1\Discord Rich Presence Example.pdb
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\obj\Debug\netcoreapp3.1\Discord Rich Presence Example.dll
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\obj\Debug\netcoreapp3.1\Discord Rich Presence Example.pdb
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\obj\Debug\netcoreapp3.1\Discord Rich Presence Example.genruntimeconfig.cache
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\obj\Debug\netcoreapp3.1\Discord_Rich_Presence_Example.Properties.Resources.resources
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\obj\Debug\netcoreapp3.1\Discord Rich Presence Example.csproj.GenerateResource.cache
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\obj\Debug\netcoreapp3.1\Discord Rich Presence Example.csproj.CoreCompileInputs.cache
+C:\Users\devin\source\repos\Discord Rich Presence Example\Discord Rich Presence Example\obj\Debug\netcoreapp3.1\Discord Rich Presence Example.csproj.Fody.CopyLocal.cache

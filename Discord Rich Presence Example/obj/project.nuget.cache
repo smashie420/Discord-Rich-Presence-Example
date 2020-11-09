@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITzk6DWM1AgVNWcF2tHqq+y2iSoqCAbks+KdCepmokloay2ICoQkhZMlaG2uPEVkh9GCrUeodmrZvEyEjwtfoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devin\\source\\repos\\Discord Rich Presence Example\\Discord Rich Presence Example\\Discord Rich Presence Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devin\\.nuget\\packages\\costura.fody\\4.1.0\\costura.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\discordrichpresence\\1.0.166\\discordrichpresence.1.0.166.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
